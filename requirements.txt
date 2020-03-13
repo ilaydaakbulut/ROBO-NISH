@@ -108,7 +108,7 @@ pyrsistent==0.14.10
 python-apt==1.1.0b1+ubuntu0.16.4.5
 python-dateutil==2.4.2
 python-debian==0.1.27
-python-gnupg==0.3.8
+python-gnupg==0.4.4
 python-systemd==231
 pytz==2019.1
 pyxdg==0.25

@@ -84,7 +84,7 @@ pastel==0.1.0
 pathtools==0.1.2
 pexpect==4.0.1
 pickleshare==0.7.5
-Pillow==3.1.2
+Pillow==8.1.1
 pkginfo==1.5.0.1
 plainbox==0.25
 poetry==0.12.11

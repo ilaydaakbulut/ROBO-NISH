@@ -119,7 +119,7 @@ reportlab==3.3.0
 requests==2.21.0
 requests-toolbelt==0.8.0
 roman==2.0.0
-rsa==3.2.3
+rsa==4.1
 s3transfer==0.1.9
 scipy==0.17.0
 Send2Trash==1.5.0

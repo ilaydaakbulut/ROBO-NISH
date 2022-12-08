@@ -19,7 +19,7 @@ cached-property==1.5.1
 cachy==0.2.0
 capstone==4.0.1
 ccxt==1.17.359
-certifi==2018.8.24
+certifi==2022.12.7
 chardet==3.0.4
 checkbox-support==0.22
 cleo==0.6.8
